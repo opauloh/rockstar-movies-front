@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/rockstar-movies-front/static/css/main.e5e85024.chunk.css",
-    "main.js": "/rockstar-movies-front/static/js/main.3cca5665.chunk.js",
-    "main.js.map": "/rockstar-movies-front/static/js/main.3cca5665.chunk.js.map",
+    "main.css": "/rockstar-movies-front/static/css/main.4eb259be.chunk.css",
+    "main.js": "/rockstar-movies-front/static/js/main.94fab1be.chunk.js",
+    "main.js.map": "/rockstar-movies-front/static/js/main.94fab1be.chunk.js.map",
     "runtime-main.js": "/rockstar-movies-front/static/js/runtime-main.3bace94d.js",
     "runtime-main.js.map": "/rockstar-movies-front/static/js/runtime-main.3bace94d.js.map",
     "static/css/2.59405167.chunk.css": "/rockstar-movies-front/static/css/2.59405167.chunk.css",
     "static/js/2.3d1373b1.chunk.js": "/rockstar-movies-front/static/js/2.3d1373b1.chunk.js",
     "static/js/2.3d1373b1.chunk.js.map": "/rockstar-movies-front/static/js/2.3d1373b1.chunk.js.map",
     "index.html": "/rockstar-movies-front/index.html",
-    "precache-manifest.c2f56c9882db920a9c169adb85efc852.js": "/rockstar-movies-front/precache-manifest.c2f56c9882db920a9c169adb85efc852.js",
+    "precache-manifest.bfe8670b7fce3228fa61c471ac51d1b1.js": "/rockstar-movies-front/precache-manifest.bfe8670b7fce3228fa61c471ac51d1b1.js",
     "service-worker.js": "/rockstar-movies-front/service-worker.js",
     "static/css/2.59405167.chunk.css.map": "/rockstar-movies-front/static/css/2.59405167.chunk.css.map",
-    "static/css/main.e5e85024.chunk.css.map": "/rockstar-movies-front/static/css/main.e5e85024.chunk.css.map",
+    "static/css/main.4eb259be.chunk.css.map": "/rockstar-movies-front/static/css/main.4eb259be.chunk.css.map",
     "static/js/2.3d1373b1.chunk.js.LICENSE.txt": "/rockstar-movies-front/static/js/2.3d1373b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3bace94d.js",
     "static/css/2.59405167.chunk.css",
     "static/js/2.3d1373b1.chunk.js",
-    "static/css/main.e5e85024.chunk.css",
-    "static/js/main.3cca5665.chunk.js"
+    "static/css/main.4eb259be.chunk.css",
+    "static/js/main.94fab1be.chunk.js"
   ]
 }

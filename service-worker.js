@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rockstar-movies-front/precache-manifest.c2f56c9882db920a9c169adb85efc852.js"
+  "/rockstar-movies-front/precache-manifest.bfe8670b7fce3228fa61c471ac51d1b1.js"
 );
 
 self.addEventListener('message', (event) => {
