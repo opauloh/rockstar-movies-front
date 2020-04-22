@@ -1,6 +1,10 @@
 # RockstarMovies.com
 
+Oficial Doc [Here](https://www.notion.so/Rockstar-Coders-Challenge-95d0a15e15ec44fb9ab21148df753304)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Environment
 First of all be sure to get an API key (v4 auth) from TMDB
