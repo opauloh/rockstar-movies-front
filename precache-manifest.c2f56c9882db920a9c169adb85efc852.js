@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26cfef26d4dab3f2793225306b2ac53b",
+    "revision": "b8ccdf54ae1cddea0376e19399527fb4",
     "url": "/rockstar-movies-front/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rockstar-movies-front/static/css/2.59405167.chunk.css"
   },
   {
-    "revision": "13b6f40fd940a90ea152",
-    "url": "/rockstar-movies-front/static/css/main.45dc0d24.chunk.css"
+    "revision": "6c768e1e2248fc2a2ad8",
+    "url": "/rockstar-movies-front/static/css/main.e5e85024.chunk.css"
   },
   {
     "revision": "2914907e13c522eb8c33",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rockstar-movies-front/static/js/2.3d1373b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13b6f40fd940a90ea152",
+    "revision": "6c768e1e2248fc2a2ad8",
     "url": "/rockstar-movies-front/static/js/main.3cca5665.chunk.js"
   },
   {
