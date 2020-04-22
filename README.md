@@ -1,4 +1,12 @@
+# RockstarMovies.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Environment
+First of all be sure to get an API key (v4 auth) from TMDB
+You can read more about that here [https://developers.themoviedb.org/3/getting-started/authentication](https://developers.themoviedb.org/3/getting-started/authentication)
+
+Create your .env file (use .env.example as template), and paste your TMDB Key on REACT_APP_TMDB_API_KEY
 
 ## Available Scripts
 
