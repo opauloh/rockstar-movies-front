@@ -36,7 +36,7 @@ export default function Detail({ match }) {
                     {
                         movie ?
                             <div className="col s12">
-                                <div className="card horizontal">
+                                <div className="detail-movie card horizontal">
                                     <div className="card-image">
                                         <img
                                             style={{ width: 400 }}

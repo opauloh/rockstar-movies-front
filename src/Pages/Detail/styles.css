@@ -2,4 +2,21 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-}  
+} 
+.movie__genres span{
+    margin-bottom: 5px;
+}
+@media only screen and (max-width: 600px) {
+    .detail-movie.card.horizontal .card-image {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+    }
+    .detail-movie.card.horizontal {
+        flex-direction: column;
+    }
+    .detail-movie.card .card-image img {
+        display: initial;
+        margin-top: 10px;
+    }
+  }
